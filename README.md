@@ -2,12 +2,12 @@
 ⚒ Este repositório encontra-se em construção, fique a vontade para dar feedbacks e auxiliar na construção do guia para auxilar outras pessoas. ⚒
 
 ## Sumário
-- [Ferramentaas](##Ferramentas)
-- [Roadmaps](##Roadmaps)
-- [Materias](##Materiais)
-    - [Livros](##Livros)
-    - [Blogs](##Blogs)
-    - [Vídeos](##Vídeos)
+- [Ferramentaas](#Ferramentas)
+- [Roadmaps](#Roadmaps)
+- [Materias](#Materiais)
+    - [Livros](#Livros)
+    - [Blogs](#Blogs)
+    - [Vídeos](#Vídeos)
  
 ## Ferramentas
 + Dispositivo que rode MacOS
