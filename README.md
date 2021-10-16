@@ -5,9 +5,9 @@
 - [Ferramentaas](##Ferramentas)
 - [Roadmaps](##Roadmaps)
 - [Materias](##Materiais)
-    - [Livros](###Livros)
-    - [Blogs](###Blogs)
-    - [Vídeos](###Vídeos)
+    - [Livros](##Livros)
+    - [Blogs](##Blogs)
+    - [Vídeos](##Vídeos)
  
 ## Ferramentas
 + Dispositivo que rode MacOS
@@ -29,10 +29,6 @@
 
 ### Vídeos
 **Tutorial pelo Paul Hudson do Hacking with Swift** 🇺🇸
-
 [![Swift Essential](https://img.youtube.com/vi/n5X_V81OYnQ/0.jpg)](https://www.youtube.com/watch?v=n5X_V81OYnQ)
-
-
 **Tutorial pelo Chris Ching do CodeWithChris** 🇺🇸
-
 [![Code With Chris](https://img.youtube.com/vi/FcsY1YPBwzQ/0.jpg)](https://www.youtube.com/watch?v=FcsY1YPBwzQ)
