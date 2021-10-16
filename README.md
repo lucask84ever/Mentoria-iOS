@@ -8,14 +8,16 @@
     - [Livros](#Livros indicados para comprar)
     - [Blogs](#Blogs)
     - [Vídeos](#Vídeos)
-    - [Artigos](#Artigos
+    - [Cursos](#Cursos)
+    - [Artigos](#Artigos)
+    - [Desafios](#Desafios)
  
 ## Ferramentas
 + Dispositivo que rode MacOS
 + Xcode
 
 ## Roadmaps
-+ [Júnior](https://www.test.com/junior "Testando marca")
++ [Júnior](https://www.test.com/junior)
 + [Pleno](https://www.test.com/pleno)
  
 ## Materiais
@@ -39,11 +41,11 @@
 
 [![Code With Chris](https://img.youtube.com/vi/FcsY1YPBwzQ/0.jpg)](https://www.youtube.com/watch?v=FcsY1YPBwzQ)
 
+## Materiais
+⚒ ⚒ ⚒ ⚒ ⚒ ⚒ ⚒ ⚒ 
+
 ## Artigos
 ⚒ ⚒ ⚒ ⚒ ⚒ ⚒ ⚒ ⚒ 
-⚒ ⚒ ⚒ ⚒ ⚒ ⚒ ⚒ ⚒ 
-⚒ ⚒ ⚒ ⚒ ⚒ ⚒ ⚒ ⚒ 
-⚒ ⚒ ⚒ ⚒ ⚒ ⚒ ⚒ ⚒ 
-⚒ ⚒ ⚒ ⚒ ⚒ ⚒ ⚒ ⚒ 
-⚒ ⚒ ⚒ ⚒ ⚒ ⚒ ⚒ ⚒ 
+
+## Desafios
 ⚒ ⚒ ⚒ ⚒ ⚒ ⚒ ⚒ ⚒ 
