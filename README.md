@@ -5,7 +5,7 @@
 - [Ferramentaas](#Ferramentas)
 - [Roadmaps](#Roadmaps)
 - [Materias](#Materiais)
-    - [Livros](#Livros indicados para comprar)
+    - [Livros](#Livros)
     - [Blogs](#Blogs)
     - [Vídeos](#Vídeos)
     - [Cursos](#Cursos)
@@ -21,7 +21,7 @@
 + [Pleno](https://www.test.com/pleno)
  
 ## Materiais
-### Livros indicados para comprar
+### Livros
 + Ray Wenderlich 🇺🇸
     + [Swift Apprentice](https://www.raywenderlich.com/books/swift-apprentice)
     + [UIKit Apprentice](https://www.raywenderlich.com/books/uikit-apprentice)
