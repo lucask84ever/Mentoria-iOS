@@ -30,7 +30,7 @@
 + [Hacking with Swift 🇺🇸](https://www.hackingwithswift.com/)
 + [Swift by Sundell 🇺🇸](https://www.swiftbysundell.com/basics/#filter)
 
-### Vídeos de Swift Básico
+### Vídeos
 **Tutorial pelo Paul Hudson do Hacking with Swift** 🇺🇸
 *1 hora de duração*
 
@@ -40,6 +40,9 @@
 *3 horas de duração*
 
 [![Code With Chris](https://img.youtube.com/vi/FcsY1YPBwzQ/0.jpg)](https://www.youtube.com/watch?v=FcsY1YPBwzQ)
+
+## Cursos
+Curso de [Git e Github para iniciantes 🇧🇷](https://www.udemy.com/course/git-e-github-para-iniciantes/) no Udemy.
 
 ## Materiais
 ⚒ ⚒ ⚒ ⚒ ⚒ ⚒ ⚒ ⚒ 
