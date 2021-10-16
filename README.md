@@ -30,8 +30,10 @@
 ### Vídeos de Swift Básico
 **Tutorial pelo Paul Hudson do Hacking with Swift** 🇺🇸
 *1 hora de duração*
+
 [![Swift Essential](https://img.youtube.com/vi/n5X_V81OYnQ/0.jpg)](https://www.youtube.com/watch?v=n5X_V81OYnQ)
 
 **Tutorial pelo Chris Ching do CodeWithChris** 🇺🇸
 *3 horas de duração*
+
 [![Code With Chris](https://img.youtube.com/vi/FcsY1YPBwzQ/0.jpg)](https://www.youtube.com/watch?v=FcsY1YPBwzQ)
