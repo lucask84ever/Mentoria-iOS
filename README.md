@@ -51,4 +51,4 @@ Curso de [Git e Github para iniciantes 🇧🇷](https://www.udemy.com/course/gi
 ⚒ ⚒ ⚒ ⚒ ⚒ ⚒ ⚒ ⚒ 
 
 ## Desafios
-- (Desafio 1)[https://github.com/lucask84ever/Challenge1_Curriculum]
+- [Desafio 1](https://github.com/lucask84ever/Challenge1_Curriculum)
