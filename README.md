@@ -42,10 +42,9 @@
 [![Code With Chris](https://img.youtube.com/vi/FcsY1YPBwzQ/0.jpg)](https://www.youtube.com/watch?v=FcsY1YPBwzQ)
 
 ## Cursos
-Curso de [Git e Github para iniciantes 🇧🇷](https://www.udemy.com/course/git-e-github-para-iniciantes/) no Udemy.
-
-## Materiais
-⚒ ⚒ ⚒ ⚒ ⚒ ⚒ ⚒ ⚒ 
+- Grátis:
+    - Curso de [Git e Github para iniciantes 🇧🇷](https://www.udemy.com/course/git-e-github-para-iniciantes/) no Udemy.
+    - Curso de [iOS com Swift+UIKit 🇧🇷](https://jornadadodev.com.br/cursos/curso-de-desenvolvimento-de-aplicativos-para-ios-com-swift)
 
 ## Artigos
 ⚒ ⚒ ⚒ ⚒ ⚒ ⚒ ⚒ ⚒ 
