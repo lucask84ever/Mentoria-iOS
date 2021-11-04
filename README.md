@@ -54,3 +54,4 @@
 
 ## Desafios
 - [Desafio 1](https://github.com/lucask84ever/Challenge1_Curriculum) tableview + datasource + assets locais
+- [Desafio 2](https://github.com/lucask84ever/Challenge2_ImagemCachorro) debug + request + uikit
