@@ -17,8 +17,8 @@
 + Xcode
 
 ## Roadmaps
-+ [Júnior](https://www.test.com/junior)
-+ [Pleno](https://www.test.com/pleno)
++ [Júnior (W.I.P)](https://www.test.com/junior)
++ [Pleno (W.I.P)](https://www.test.com/pleno)
  
 ## Materiais
 ### Livros
