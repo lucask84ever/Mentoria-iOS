@@ -17,8 +17,8 @@
 + Xcode
 
 ## Roadmaps
-+ [Júnior (W.I.P)](https://www.test.com/junior)
-+ [Pleno (W.I.P)](https://www.test.com/pleno)
++ [Júnior (W.I.P)](https://raw.githubusercontent.com/lucask84ever/Mentoria-iOS/main/Assets/Roadmaps/junior.jpg)
++ [Pleno (W.I.P)](https://raw.githubusercontent.com/lucask84ever/Mentoria-iOS/main/Assets/Roadmaps/middle.jpg)
  
 ## Materiais
 ### Livros
