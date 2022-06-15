@@ -45,6 +45,7 @@
 - Grátis:
     - Curso de [Git e Github para iniciantes 🇧🇷](https://www.udemy.com/course/git-e-github-para-iniciantes/) no Udemy.
     - Curso de [iOS com Swift+UIKit 🇧🇷](https://jornadadodev.com.br/cursos/curso-de-desenvolvimento-de-aplicativos-para-ios-com-swift)
+    - Curso [iOS/SwiftUI/UIKit 🇺🇸](https://developer.apple.com/tutorials/app-dev-training)
     
 - Pagos:
     - Curso de [Desenvolvimento IOS 12 - Aprenda a criar 18 Apps 🇧🇷](https://www.udemy.com/course/curso-desenvolvimento-ios/) no Udemy.
